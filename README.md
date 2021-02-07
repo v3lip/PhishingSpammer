@@ -1,6 +1,6 @@
 # PhisingSpammer 1.4
 
-[![N|Solid](https://i.imgur.com/E5ltGFC.png)]
+![N|Solid](https://i.imgur.com/E5ltGFC.png)
 
 
 PhisingSpammer is an automated bot that spam phising sites just by a few clicks!
