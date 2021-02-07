@@ -1,6 +1,6 @@
 # PhisingSpammer 1.4
 
-[![N|Solid](https://i.imgur.com/E5ltGFC.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://i.imgur.com/E5ltGFC.png)]
 
 
 PhisingSpammer is an automated bot that spam phising sites just by a few clicks!
@@ -16,9 +16,6 @@ PhisingSpammer is an automated bot that spam phising sites just by a few clicks!
 ### Tech
 
 Phising Spammer is written in purely Python, with few libraries which makes it very easy to use and get going.
-
-And of course Phishing spammer itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Installation
 
