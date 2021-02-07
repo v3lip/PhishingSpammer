@@ -22,7 +22,7 @@ Phising Spammer is written purely in Python, with few libraries which makes it v
 Phising Spammer requires [Python 3.8.*](https://www.python.org/) to run.
 (Only tested on Python 3.8.5)
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies.
 
 ```sh
 $ python -m pip install requests
