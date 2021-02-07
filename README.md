@@ -30,6 +30,7 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ python -m pip install requests
 $ python -m pip install pytest-shutil
+$ python -m pip install objdict
 ```
 
 
