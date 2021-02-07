@@ -1,4 +1,4 @@
-# PhisingSpammer
+# PhisingSpammer 1.4
 
 [![N|Solid](https://i.imgur.com/E5ltGFC.png)](https://nodesource.com/products/nsolid)
 
