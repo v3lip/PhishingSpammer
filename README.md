@@ -20,6 +20,14 @@ Phising Spammer is written purely in Python, with few libraries which makes it v
 ### How to use
 
 First, generate a settings.json by running the generator. The generator will ask you a couple of questions,
+  - 'Save file as =>' - What do you want your settings file to be saved as?
+  - 'Target URL =>' - The URL to the login prompt of your target. Example: http://example.com/login.php
+  - 'Names JSON File =>' - A list of random names used by the fake email generator
+  - 'Passwords JSON File =>' - A list of random passwords used in the password field of the website.
+  - 'Form username HTML name =>' - The name attribute of the input 
+        example: <input class="loginField" type="text" name="USERNAME"> <- The last attribute here
+  - 'Form password HTML name =>' - The name attribute of the input 
+        example: <input class="loginField" type="password" name="PASSWORD"> <- The last attribute here
 
 ### Installation
 
