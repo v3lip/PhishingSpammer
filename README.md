@@ -39,4 +39,3 @@ Keep em' coming and I'll take a look at em'!
 ### Todos
 
  - Make a tutorial on how to use Phising Spammer V1.4
- - None currently!
