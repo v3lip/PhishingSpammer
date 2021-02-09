@@ -17,7 +17,7 @@ PhisingSpammer is an automated bot that spam phising sites just by a few clicks!
 
 Phising Spammer is written purely in Python, with few libraries which makes it very easy to use and get going.
 
-### How to use
+## How to use
 
 First we have to generate a settings.json by running the generator. The generator will ask you a couple of questions,
   - 'Save file as =>' - What do you want your settings file to be saved as?
@@ -34,7 +34,7 @@ Now click `enter` and you should get something like this! Happy hunting!
 
   ![N|Solid](https://i.imgur.com/BJQ2ahF.png)
 
-### Installation
+## Installation
 
 Phising Spammer requires [Python 3.8.*](https://www.python.org/) to run.
 (Only tested on Python 3.8.5)
@@ -53,5 +53,5 @@ $ python -m pip install objdict
 Want to contribute? Great!
 Keep em' coming and I'll take a look at em'!
 
-### TODO
+## Ideas for next update:
   - Make it so it finds the name attributes automatically.
