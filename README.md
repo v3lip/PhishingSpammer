@@ -31,7 +31,7 @@ First we have to generate a settings.json by running the generator. The generato
         
 Now that we have our settings file, we can run the spammer.
   - The spammer will ask you for the settings file. You can type out the name of the file with or without the `.json`
-  !(https://i.imgur.com/BJQ2ahF.png)
+  ![N|Solid](https://i.imgur.com/BJQ2ahF.png)
 
 ### Installation
 
