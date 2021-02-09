@@ -29,8 +29,9 @@ First we have to generate a settings.json by running the generator. The generato
   - 'Form password HTML name =>' - The name attribute of the input 
         example: `<input class="loginField" type="password" name="PASSWORD">` <- The last attribute here
         
-Now that we have our settings file, we can run the spammer.
-  - The spammer will ask you for the settings file. You can type out the name of the file with or without the `.json`
+Now that we have our settings file, we can run the spammer. The spammer will ask you for the settings file you just created. You can type out the name of the file with or without the `.json`
+Now click `enter` and you should get something like this! Happy hunting!
+
   ![N|Solid](https://i.imgur.com/BJQ2ahF.png)
 
 ### Installation
