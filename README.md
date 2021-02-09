@@ -8,7 +8,7 @@ PhisingSpammer is an automated bot that spam phising sites just by a few clicks!
   - Fully customizable name and password lists
   - An easy to use settings generator that makes life and 'spamming' very easy
 
-# New Features in 1.4!
+## New Features in 1.4!
 
   - Settings generator that is very automated and easy to use
   - Have multiple names and passwords files that you can easily switch between
