@@ -78,6 +78,7 @@ def colorText(text):
 title = 'Velip Spam Bot' + version
 print(drawLine('-'))
 print(str.center(title, allign_center(title)))
+print(str.center('github.com/m0nstechilled/PhishingSpammer', allign_center('github.com/m0nstechilled/PhishingSpammer')))
 print(drawLine('-'))
 
 #Int for counting the loop
@@ -87,8 +88,35 @@ run = 0
 try:
     while True:
         #Random email generator
-        name_extra = str(randrange(72, 99))
-        username = random.choice(names) + name_extra + '@' + random.choice(domains)
+        chance = random.randint(1, 100)
+        atdomain = '@' + random.choice(domains)
+
+        if 1 <= chance <= 5:
+            username = random.choice(names) + atdomain
+
+        if 6 <= chance <= 20:
+            name_extra = str(randrange(0, 99))
+            username = random.choice(names) + name_extra + atdomain
+
+        if 21 <= chance <= 42:
+            name_extra = str(randrange(0, 99))
+            username = random.choice(names) + '_' + name_extra + atdomain
+
+        if 43 <= chance <= 50:
+            name_extra = str(randrange(0, 99))
+            username = random.choice(names) + '_' + random.choice(names) + name_extra + atdomain
+
+        if 51 <= chance <= 70:
+            username = random.choice(names) + '.' + random.choice(names) + atdomain
+
+        if 71 <= chance <= 80:
+            name_extra = str(randrange(0, 99))
+            username = random.choice(names) + random.choice(names) + name_extra + atdomain
+
+        if 81 <= chance <= 100:
+            name_extra = str(randrange(0, 99))
+            username = random.choice(names) + name_extra + atdomain
+
         username = username.lower()
 
         #Picks random password from the Rockyou passwords file
@@ -108,3 +136,4 @@ except KeyboardInterrupt:
     #Shows the total number of spammed login attempts
     print(drawLine('-'))
     print(colorText('Done! Spammed [[red]]{}[[reset]] times to [[red]]{}[[reset]]!'.format(run, url)))
+    print(colorText('github.com/m0nstechilled/PhishingSpammer')
