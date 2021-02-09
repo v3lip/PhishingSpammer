@@ -136,4 +136,4 @@ except KeyboardInterrupt:
     #Shows the total number of spammed login attempts
     print(drawLine('-'))
     print(colorText('Done! Spammed [[red]]{}[[reset]] times to [[red]]{}[[reset]]!'.format(run, url)))
-    print(colorText('github.com/m0nstechilled/PhishingSpammer')
+    print('github.com/m0nstechilled/PhishingSpammer')
