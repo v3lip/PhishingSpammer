@@ -50,3 +50,6 @@ $ python -m pip install objdict
 
 Want to contribute? Great!
 Keep em' coming and I'll take a look at em'!
+
+### TODO
+  - Make it so it finds the name attributes automatically.
