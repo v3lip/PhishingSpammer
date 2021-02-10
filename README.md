@@ -54,4 +54,6 @@ Want to contribute? Great!
 Keep em' coming and I'll take a look at em'!
 
 ## Ideas for next update:
+### Feel free to add these features yourself!
   - Make it so it finds the name attributes automatically.
+  - Setup installment and requirements.txt
