@@ -13,9 +13,13 @@ PhisingSpammer is an automated bot that spam phising sites just by a few clicks!
   - Settings generator that is very automated and easy to use
   - Have multiple names and passwords files that you can easily switch between
 
-### Tech
+### Donate
 
-Phising Spammer is written purely in Python, with few libraries which makes it very easy to use and get going.
+Want to buy me a coffee?
+
+BTC Address: bc1qfdaysa6u7zclsryfv8gf8ffqknrj07d9dlgayf
+
+![N|Solid](https://i.imgur.com/smX4eoa.png)
 
 ## How to use
 
