@@ -70,7 +70,7 @@ if postPassword == "": postPassword = "password"
 #Generation user input to .json file
 print('\nGenerating..')
 myDictObj = { \
-    "title" : "https://github.com/m0nstechilled/PhishingSpammer/",
+    "title" : "https://github.com/v3lip/PhishingSpammer/",
     "version" : "V1.4",
     "targetUrl" : targetUrl,
     "namesJson" : namesJson,
