@@ -78,7 +78,7 @@ def colorText(text):
 title = 'Velip Spam Bot' + version
 print(drawLine('-'))
 print(str.center(title, allign_center(title)))
-print(str.center('github.com/m0nstechilled/PhishingSpammer', allign_center('github.com/m0nstechilled/PhishingSpammer')))
+print(str.center('github.com/v3lip/PhishingSpammer', allign_center('github.com/v3lip/PhishingSpammer')))
 print(drawLine('-'))
 
 #Int for counting the loop
@@ -136,4 +136,4 @@ except KeyboardInterrupt:
     #Shows the total number of spammed login attempts
     print(drawLine('-'))
     print(colorText('Done! Spammed [[red]]{}[[reset]] times to [[red]]{}[[reset]]!'.format(run, url)))
-    print('github.com/m0nstechilled/PhishingSpammer')
+    print('github.com/v3lip/PhishingSpammer')
