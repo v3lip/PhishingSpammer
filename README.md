@@ -45,10 +45,14 @@ Phising Spammer requires [Python 3.8.*](https://www.python.org/) to run.
 
 Install the dependencies.
 
+Windows:
 ```sh
-$ python -m pip install requests
-$ python -m pip install pytest-shutil
-$ python -m pip install objdict
+$ python -m pip install -r requirements.txt
+```
+
+Linux:
+```sh
+$ pip3 install -r requirements.txt
 ```
 
 
