@@ -1,4 +1,7 @@
 # PhisingSpammer 1.4
+![N|Solid](https://img.shields.io/github/last-commit/v3lip/PhishingSpammer)
+![N|Solid](https://img.shields.io/github/followers/v3lip?style=social)
+
 
 ![N|Solid](https://i.imgur.com/E5ltGFC.png)
 
