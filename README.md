@@ -6,7 +6,7 @@
 ![N|Solid](https://i.imgur.com/E5ltGFC.png)
 
 
-PhisingSpammer is an automated bot that spam phising sites just by a few clicks!
+PhisingSpammer is an automated bot that spam phising sites with just a few clicks!
 
   - Fully customizable name and password lists
   - An easy to use settings generator that makes life and 'spamming' very easy
