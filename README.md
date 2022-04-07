@@ -1,3 +1,5 @@
+PhisingSpammerV2 is currently in development!
+
 # PhisingSpammer 1.4
 ![N|Solid](https://img.shields.io/github/last-commit/v3lip/PhishingSpammer)
 ![N|Solid](https://img.shields.io/github/followers/v3lip?style=social)
